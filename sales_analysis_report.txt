@@ -1,0 +1,28 @@
+
+SALES DATA ANALYSIS REPORT
+
+1. PROJECT OVERVIEW
+Analyzed 9,994 sales records to understand business performance,
+product category profitability, and top-selling products.
+
+2. KEY BUSINESS METRICS
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Unique Orders: 5,009
+
+3. CATEGORY INSIGHTS
+Technology generated the highest profit at $145,454.95.
+Office Supplies generated $122,490.80 in profit.
+Furniture generated only $18,451.27 despite substantial sales.
+
+4. PRODUCT INSIGHT
+The Cisco TelePresence System EX90 generated $22,638.48 in sales
+but recorded a loss of $1,811.08.
+
+5. RECOMMENDATIONS
+Investigate furniture discounts, costs, and product margins.
+Review products with high sales but negative profit.
+Continue monitoring category-level profitability.
+
+6. TOOLS USED
+Python, Pandas, Matplotlib, Jupyter Notebook.
